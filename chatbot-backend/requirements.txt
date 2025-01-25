@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+langgraph
+huggingface_hub
+transformers
+sqlalchemy
+mysql-connector
+pydantic
